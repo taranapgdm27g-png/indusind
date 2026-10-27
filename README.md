@@ -1,11 +1,16 @@
-# Tarana Bansal: portfolio for Capgemini Chrysalis, DCX Business Analyst
+# Tarana Bansal: portfolio
 
-Live site: https://taranapgdm27g-png.github.io/capgemini/
+Customer experience, process design and applied AI. PGDM, Great Lakes Institute of Management, Gurgaon (2027).
 
-PGDM, Great Lakes Institute of Management, Gurgaon (2027).
+Live site: https://taranapgdm27g-png.github.io/portfolio/
 
-- **index.html**: the portfolio. Role fit against the job description, a discovery-to-backlog workbench, experience, projects and credentials.
-- **Tarana_Bansal_Resume.pdf**: résumé.
-- **Tarana_Bansal_Paytm_Internship_Report.pdf**, **CareerCompass_PMO_Deck.pptx**, **Healthcare_Transport_Case.pptx**: work linked from the page.
+## Files
+- `index.html`: the portfolio (engagements, working session, perspectives, experience, credentials)
+- `orvelle.html`: the live Orvelle store and Studio (opens from the portfolio)
+- `Tarana_Bansal_Resume.pdf`
+- `Tarana_Bansal_Paytm_Internship_Report.pdf`
+- `CCM_Project_Deck.pptx`, `CCM_Project_Deck.pdf`, `CCM_Controls_Testing.ipynb`
+- `CareerCompass_PMO_Deck.pptx`, `Healthcare_Transport_Case.pptx`, `Project_Orvelle_Teaser.pdf`
+- `og-card.png`: link-preview image
 
-No build step. Workbench scenarios are illustrative; platform mappings are proposals.
+No build step. Orvelle, the controls project and the working-session scenarios use illustrative or synthetic data.
